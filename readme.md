@@ -1,3 +1,5 @@
 
+# MCSE-304 (2025) - Information Retrieval Repository
 
-[ * ] Class 1: Boolean Retrieval (2 hrs)
+## Class Work and Assignments
+- ✅ Class 1: Boolean Retrieval (2 hrs)
